@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "version": "0.0.1",
+  "description": "Just an template",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psavela/OpenshiftTemplate.git"
+  },
+  "author": "psavela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psavela/OpenshiftTemplate/issues"
+  },
+  "homepage": "https://github.com/psavela/OpenshiftTemplate#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
